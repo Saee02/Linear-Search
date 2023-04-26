@@ -8,5 +8,8 @@ If a match is found, the integer variable's counter is set to 1. After the for l
 If count is 1, it means the search value was found in the array, and the program prints the message "That number exists."
 If count is 0, it means the search value was not found in the array and the program displays the message "number does not exist".
 
+![image](https://user-images.githubusercontent.com/124857336/234470743-644da2ef-1f05-4a13-a314-5aa824c8e9bc.png)
+
+
 
 ![linear search](https://user-images.githubusercontent.com/124857336/231731864-84873193-0576-4715-aca3-6ff4a79f016a.JPG)
